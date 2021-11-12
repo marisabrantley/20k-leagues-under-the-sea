@@ -11,7 +11,7 @@ Use CSS transitions to make any interactions on the page smooth, specifically wi
 * text color on the definable words; and
 * sliding of the definition block.
 
-
+https://user-images.githubusercontent.com/60168324/141389583-a939688f-585b-4394-84b0-3cde69119f6d.mov
 
 ## Launch
 
