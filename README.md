@@ -16,3 +16,8 @@ https://user-images.githubusercontent.com/60168324/141389583-a939688f-585b-4394-
 ## Launch
 
 View the online reader here: https://marisabrantley.github.io/20k-leagues-under-the-sea/
+
+## Class
+*Codecademy/Pro, Front-End Engineer Path*
+
+CSS Transitions and Animations: CSS Transitions and Transforms
